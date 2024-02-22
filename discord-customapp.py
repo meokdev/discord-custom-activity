@@ -1,7 +1,7 @@
 from pypresence import Presence
 import time
 
-client_id = '1210159243529949184'  # Replace with your application's client ID
+client_id = 'api_key_here'  # Replace with your application's client ID
 
 RPC = Presence(client_id)
 RPC.connect()
